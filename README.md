@@ -1,4 +1,4 @@
-# Hello I'm Leonardo Mota
+# Hello I'm Leonardo Mota 😎
 
 
 - 🔭 Student of Business Administration and focusing my studies in how to apply Artificial Intelligence for Business Problems
