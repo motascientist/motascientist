@@ -1,7 +1,7 @@
 # Hello I'm Leonardo Mota 😎
 
 
-- 🔭 Student of Business Administration and focusing my studies in how to apply Artificial Intelligence for Business Problems
+- 🔭 Student of Business Administration, focusing my studies in how to apply Artificial Intelligence for Business Problems
 - 🌱 Always learning more about Python, Data and Storytelling
 - 📫 Contact me on Linkedln: https://www.linkedin.com/in/leonardo-dos-santos-mota-6758581ab/
 
