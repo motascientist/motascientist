@@ -1,7 +1,9 @@
 # Hello I'm Leonardo Mota 😎
 
 👨🏻‍💻 - Data Engineer
+
 📈 - Data Analyst 
+
 🔬 - Data Scientist
 
 <div style="display: inline_block"><br>
