@@ -20,6 +20,24 @@ I'm a versatile technology professional with expertise across multiple domains:
   <img align="center" alt="n8n" height="60" width="80" src="https://n8n.io/favicon.ico" />
 </div>
 
+### Most Used Languages
+
+<div style="background-color: white; border-radius: 10px; padding: 15px; margin: 20px 0; display: inline-block;">
+  <h3 style="color: #4285f4; margin-top: 0;">Most Used Languages</h3>
+  <div>
+    <span style="background-color: #F37626; color: white; border-radius: 50%; display: inline-block; width: 12px; height: 12px; margin-right: 5px;"></span> Jupyter Notebook
+    <span style="background-color: #3178C6; color: white; border-radius: 50%; display: inline-block; width: 12px; height: 12px; margin-right: 5px; margin-left: 15px;"></span> TypeScript
+  </div>
+  <div style="margin-top: 8px;">
+    <span style="background-color: #F7DF1E; color: white; border-radius: 50%; display: inline-block; width: 12px; height: 12px; margin-right: 5px;"></span> JavaScript
+    <span style="background-color: #E34F26; color: white; border-radius: 50%; display: inline-block; width: 12px; height: 12px; margin-right: 5px; margin-left: 15px;"></span> HTML
+  </div>
+  <div style="margin-top: 8px;">
+    <span style="background-color: #3776AB; color: white; border-radius: 50%; display: inline-block; width: 12px; height: 12px; margin-right: 5px;"></span> Python
+    <span style="background-color: #563D7C; color: white; border-radius: 50%; display: inline-block; width: 12px; height: 12px; margin-right: 5px; margin-left: 15px;"></span> CSS
+  </div>
+</div>
+
 ### Skills & Specializations
 
 - **Data Engineering**: ETL/ELT Pipelines, Data Warehousing, Data Lakes
@@ -30,9 +48,8 @@ I'm a versatile technology professional with expertise across multiple domains:
 - **Automation Tools**: n8n, RPA, API Integration
 - **Analytics & Visualization**: Data Processing, Reporting, BI Tools
 - **Machine Learning**: Predictive Modeling, Statistical Analysis
+- **Web Technologies**: HTML, CSS, JavaScript, TypeScript
 
 ---
 
 *Let's connect and build intelligent, automated solutions together!*
-
-
