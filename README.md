@@ -19,11 +19,16 @@ I build complete automation ecosystems that transform manual processes into effi
 
 <div align="center"><br>
   <img align="center" alt="Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
-  <img align="center" alt="Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <img align="center" alt="Google Cloud" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+  <img align="center" alt="BigQuery" height="60" width="80" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" />
+  <img align="center" alt="Supabase" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
   <img align="center" alt="PostgreSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <br><br>
+  <img align="center" alt="n8n" height="60" width="80" src="https://n8n.io/favicon.ico" />
+  <img align="center" alt="Evolution API (WhatsApp)" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
+  <img align="center" alt="Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img align="center" alt="Redis" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
   <img align="center" alt="Linux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="n8n" height="60" width="80" src="https://n8n.io/favicon.ico" />
 </div>
 <br>
 
@@ -43,7 +48,7 @@ I build complete automation ecosystems that transform manual processes into effi
 ### 🎯 Skills & Specializations
 
 - **Corporate Automation**: Highly available n8n Enterprise Stacks (Workers, Redis/RabbitMQ), Evolution API, Chatwoot, and Selenium.
-- **Infrastructure & Cloud**: Docker Swarm orchestration, Linux server administration, Nginx, and building custom open-cloud infrastructures.
+- **Infrastructure & Cloud**: Docker Swarm orchestration, Linux server administration, Google Cloud Platform, and building custom open-cloud infrastructures.
 - **Data Engineering**: Robust pipelines, BigQuery, Supabase, PostgreSQL, and interactive dashboards (Streamlit, Plotly).
 - **Data Science & AI**: AI Agents for WhatsApp ticket resolution, MLOps, LangChain, OpenAI, Pandas, and Scikit-learn.
 - **Process Optimization**: Transforming manual workflows into high-uptime, scalable solutions capable of handling 10k+ daily executions.
