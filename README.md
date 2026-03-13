@@ -1,55 +1,60 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=motascientist&color=blueviolet&style=flat-square&label=VÍSITAS+AO+PERFIL" alt="Contador de Visitas" />
+</div>
+
 # Leonardo Mota
 
-## Professional Data & Automation Specialist
+## Data Engineering & Automation Specialist
 
-I'm a versatile technology professional with expertise across multiple domains:
+I build complete automation ecosystems that transform manual processes into efficient systems, reducing costs and increasing productivity. I specialize in scalable infrastructure and open-source corporate solutions.
 
-- 🏗️ **Data Engineer** - Building robust data infrastructures and pipelines
-- 📊 **Data Analyst** - Transforming data into actionable insights
-- 🧪 **Data Scientist** - Extracting knowledge and value through advanced analytics
-- ⚙️ **Automation Analyst** - Streamlining processes through intelligent automation
-
-### Tech Stack
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
-  <img align="center" alt="Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-  <img align="center" alt="AWS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-  <img align="center" alt="MongoDB" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="n8n" height="60" width="80" src="https://n8n.io/favicon.ico" />
-</div>
-
-### Most Used Languages
-
-<div style="background-color: white; border-radius: 10px; padding: 15px; margin: 20px 0; display: inline-block;">
-  <h3 style="color: #4285f4; margin-top: 0;">Most Used Languages</h3>
-  <div>
-    <span style="background-color: #F37626; color: white; border-radius: 50%; display: inline-block; width: 12px; height: 12px; margin-right: 5px;"></span> Jupyter Notebook
-    <span style="background-color: #3178C6; color: white; border-radius: 50%; display: inline-block; width: 12px; height: 12px; margin-right: 5px; margin-left: 15px;"></span> TypeScript
-  </div>
-  <div style="margin-top: 8px;">
-    <span style="background-color: #F7DF1E; color: white; border-radius: 50%; display: inline-block; width: 12px; height: 12px; margin-right: 5px;"></span> JavaScript
-    <span style="background-color: #E34F26; color: white; border-radius: 50%; display: inline-block; width: 12px; height: 12px; margin-right: 5px; margin-left: 15px;"></span> HTML
-  </div>
-  <div style="margin-top: 8px;">
-    <span style="background-color: #3776AB; color: white; border-radius: 50%; display: inline-block; width: 12px; height: 12px; margin-right: 5px;"></span> Python
-    <span style="background-color: #563D7C; color: white; border-radius: 50%; display: inline-block; width: 12px; height: 12px; margin-right: 5px; margin-left: 15px;"></span> CSS
-  </div>
-</div>
-
-### Skills & Specializations
-
-- **Data Engineering**: ETL/ELT Pipelines, Data Warehousing, Data Lakes
-- **Cloud Solutions**: AWS Services (S3, Redshift, Lambda, Glue)
-- **Databases**: SQL & NoSQL (MySQL, MongoDB)
-- **Containerization**: Docker, Container Orchestration
-- **Process Automation**: Workflow Design, Business Process Automation
-- **Automation Tools**: n8n, RPA, API Integration
-- **Analytics & Visualization**: Data Processing, Reporting, BI Tools
-- **Machine Learning**: Predictive Modeling, Statistical Analysis
-- **Web Technologies**: HTML, CSS, JavaScript, TypeScript
+- 🏗️ **Data Engineer & Infrastructure** - Building robust data pipelines, "Open Cloud" alternatives using tools like MinIO, and deploying scalable architectures with Docker Swarm.
+- ⚙️ **Automation & AI Specialist** - Developing enterprise-grade n8n stacks and intelligent WhatsApp agents via Evolution API and Chatwoot.
+- 📊 **Data Scientist & MLOps** - Deploying machine learning models and AI agents (LangChain, OpenAI) into production environments.
+- 🚀 **Corporate Solutions** - Delivering open-source business automations and AI workflows through Nautic IA, backed by a background in Business Administration (Ibmec) and AI (MIT).
 
 ---
 
-*Let's connect and build intelligent, automated solutions together!*
+### 💻 Tech Stack
+
+<div align="center"><br>
+  <img align="center" alt="Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
+  <img align="center" alt="Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <img align="center" alt="PostgreSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="center" alt="Redis" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
+  <img align="center" alt="Linux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="n8n" height="60" width="80" src="https://n8n.io/favicon.ico" />
+</div>
+<br>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=motascientist&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motascientist&layout=compact&theme=tokyonight&show_icons=true&hide_border=true" alt="Linguagens Mais Usadas" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=motascientist&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🎯 Skills & Specializations
+
+- **Corporate Automation**: Highly available n8n Enterprise Stacks (Workers, Redis/RabbitMQ), Evolution API, Chatwoot, and Selenium.
+- **Infrastructure & Cloud**: Docker Swarm orchestration, Linux server administration, Nginx, and building custom open-cloud infrastructures.
+- **Data Engineering**: Robust pipelines, BigQuery, Supabase, PostgreSQL, and interactive dashboards (Streamlit, Plotly).
+- **Data Science & AI**: AI Agents for WhatsApp ticket resolution, MLOps, LangChain, OpenAI, Pandas, and Scikit-learn.
+- **Process Optimization**: Transforming manual workflows into high-uptime, scalable solutions capable of handling 10k+ daily executions.
+
+---
+
+<div align="center">
+  <a href="https://br.linkedin.com/in/leonardo-dos-santos-mota-6758581ab" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mota_scientist@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
