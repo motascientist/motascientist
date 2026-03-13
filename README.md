@@ -39,7 +39,7 @@ I build complete automation ecosystems that transform manual processes into effi
 - **Infrastructure & Cloud**: Docker Swarm orchestration, Linux server administration, Google Cloud Platform, and building custom open-cloud infrastructures.
 - **Data Engineering**: Robust pipelines, BigQuery, Supabase, PostgreSQL, and interactive dashboards (Streamlit, Plotly).
 - **Data Science & AI**: AI Agents for WhatsApp ticket resolution, MLOps, LangChain, OpenAI, Pandas, and Scikit-learn.
-- **Process Optimization**: Transforming manual workflows into high-uptime, scalable solutions capable of handling 10k+ daily executions.
+- **Process Optimization**: Transforming manual workflows into high-uptime, scalable solutions capable of handling 50k+ daily executions.
 
 ---
 
