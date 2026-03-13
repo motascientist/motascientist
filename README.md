@@ -32,18 +32,6 @@ I build complete automation ecosystems that transform manual processes into effi
 </div>
 <br>
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=motascientist&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motascientist&layout=compact&theme=tokyonight&show_icons=true&hide_border=true" alt="Linguagens Mais Usadas" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=motascientist&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 ### 🎯 Skills & Specializations
 
