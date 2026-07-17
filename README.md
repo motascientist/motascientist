@@ -4,14 +4,14 @@
 
 # Leonardo Mota
 
-## Data Engineering & Automation Specialist
+## Data Engineering & Intelligent Automation Specialist
 
-I build complete automation ecosystems that transform manual processes into efficient systems, reducing costs and increasing productivity. I specialize in scalable infrastructure and open-source corporate solutions.
+I engineer end-to-end automation ecosystems that transform manual, time-intensive workflows into highly efficient, scalable operations. By leveraging robust infrastructure and open-source corporate solutions, I help businesses reduce operational costs, increase productivity, and unlock the value of their data.
 
-- 🏗️ **Data Engineer & Infrastructure** - Building robust data pipelines, "Open Cloud" alternatives using tools like MinIO, and deploying scalable architectures with Docker Swarm.
-- ⚙️ **Automation & AI Specialist** - Developing enterprise-grade n8n stacks and intelligent WhatsApp agents via Evolution API and Chatwoot.
-- 📊 **Data Scientist & MLOps** - Deploying machine learning models and AI agents (LangChain, OpenAI) into production environments.
-- 🚀 **Corporate Solutions** - Delivering open-source business automations and AI workflows through Nautic IA, backed by a background in Business Administration (Ibmec) and AI (MIT).
+- 🏗️ **Data Engineering & Cloud Infrastructure** - Architecting resilient data pipelines, designing custom "Open Cloud" environments utilizing tools like MinIO, and deploying highly scalable, fault-tolerant architectures with Docker Swarm.
+- ⚙️ **Enterprise Automation** - Engineering high-availability n8n stacks and intelligent conversational agents via Evolution API and Chatwoot to streamline corporate communications.
+- 📊 **AI & MLOps** - Operationalizing machine learning models and advanced AI agents (LangChain, OpenAI) to solve complex business challenges in production environments.
+- 🚀 **Strategic Corporate Solutions** - Bridging the gap between technical execution and business strategy. Backed by a Business Administration degree (Ibmec) and an AI specialization (MIT), I deliver impactful enterprise solutions through Nautic IA.
 
 ---
 
@@ -33,13 +33,13 @@ I build complete automation ecosystems that transform manual processes into effi
 <br>
 
 
-### 🎯 Skills & Specializations
+### 🎯 Core Competencies
 
-- **Corporate Automation**: Highly available n8n Enterprise Stacks (Workers, Redis/RabbitMQ), Evolution API, Chatwoot, and Selenium.
-- **Infrastructure & Cloud**: Docker Swarm orchestration, Linux server administration, Google Cloud Platform, and building custom open-cloud infrastructures.
-- **Data Engineering**: Robust pipelines, BigQuery, Supabase, PostgreSQL, and interactive dashboards (Streamlit, Plotly).
-- **Data Science & AI**: AI Agents for WhatsApp ticket resolution, MLOps, LangChain, OpenAI, Pandas, and Scikit-learn.
-- **Process Optimization**: Transforming manual workflows into high-uptime, scalable solutions capable of handling 50k+ daily executions.
+- **Corporate Automation:** Designing highly available n8n Enterprise Stacks (Workers, Redis/RabbitMQ), Evolution API, Chatwoot, and Selenium for seamless workflow orchestration.
+- **Infrastructure & Cloud:** Linux server administration, Google Cloud Platform (GCP), Docker Swarm orchestration, and building robust on-premise/open-cloud infrastructures.
+- **Data Engineering:** Building performant ETL/ELT pipelines, leveraging BigQuery, Supabase, PostgreSQL, and crafting interactive data visualizations (Streamlit, Plotly).
+- **Data Science & Applied AI:** Developing AI-driven WhatsApp agents for automated ticket resolution, implementing MLOps pipelines, and utilizing LangChain, OpenAI, Pandas, and Scikit-learn.
+- **Process Optimization:** Scaling manual processes into high-uptime, fault-tolerant solutions capable of securely handling 50k+ daily executions.
 
 ---
 
